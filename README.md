@@ -1,4 +1,4 @@
-# asif-ai.github.io
+
 # 👋 Hi, I'm Asif
 
 🎓 Computer Science & Artificial Intelligence Student  
@@ -14,14 +14,22 @@
 ## 📌 Projects
 ### 🔹 AI Project 1
 **Problem:**  
-Describe the problem.
+Creating academic timetables manually is time-consuming and error-prone. Institutions face frequent issues such as overlapping classes, faculty availability conflicts, uneven workload distribution, and lack of flexibility for student preferences. Existing tools are mostly static and do not adapt well to changes or user feedback.
 
 **Solution:**  
-Explain your approach.
-
+Built an AI-powered timetable scheduling system that automatically generates conflict-free and optimized timetables using machine learning and constraint-based logic.
+The system predicts optimal time slots based on subject difficulty and user preferences, while allowing manual overrides, drag-and-drop editing, and real-time conflict detection through an interactive UI.
+This approach reduces scheduling effort, improves flexibility, and keeps humans in control of AI decisions.
 **Tech Used:**  
-Python, ML
+Frontend: React (Vite), Tailwind CSS, Framer Motion, react-beautiful-dnd
 
+Backend: Python, FastAPI
+
+Machine Learning: Scikit-Learn (Random Forest), Pandas, NumPy
+
+Database: SQLite
+
+Tools: Git, GitHub, VS Code
 **GitHub:**  
 [Repo link]
 
